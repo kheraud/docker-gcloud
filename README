@@ -1,0 +1,5 @@
+Google gcloud command-line tool in an alpine-based image
+
+The image contains also `bash`
+
+`npm run -it gcloud-alpine-client:latest bash`
